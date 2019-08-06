@@ -1,0 +1,2 @@
+# SpringBootBaseCore
+base project
