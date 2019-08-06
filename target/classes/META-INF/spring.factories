@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.suse.yuxin.config.ConfigBean,\
+com.suse.yuxin.controller.CommonController,\
+com.suse.yuxin.base.MybatisBaseDao
