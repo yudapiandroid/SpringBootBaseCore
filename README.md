@@ -35,6 +35,24 @@
 
 #### 使用方式
 
+- 添加仓库地址
+```$xml
+	<repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://www.jitpack.io</url>
+		</repository>
+	</repositories>
+```
+
 - 添加依赖
+```$xml
+    <dependency>
+	    <groupId>com.github.yudapiandroid</groupId>
+	    <artifactId>SpringBootBaseCore</artifactId>
+	    <version>1.0.0</version>
+	</dependency>
+```
+
 - 项目入口添加注解: @EnableCommonController
 
